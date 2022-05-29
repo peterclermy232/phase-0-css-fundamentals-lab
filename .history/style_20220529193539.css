@@ -14,13 +14,6 @@ nav{
 figure{
   text-align: center;
 }
-.text{
-  line-break: auto;
+section#featured-property p{
   text-align: center;
-}
-#details{
-  background-color: red;
-  display: flex;
-  align-items: center;
-  justify-content: space-evenly;
 }

@@ -11,16 +11,9 @@ h1{
 nav{
   text-align: center;
 }
-figure{
+#featured-property{
   text-align: center;
 }
-.text{
-  line-break: auto;
+p{
   text-align: center;
-}
-#details{
-  background-color: red;
-  display: flex;
-  align-items: center;
-  justify-content: space-evenly;
 }

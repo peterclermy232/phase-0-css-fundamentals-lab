@@ -15,11 +15,10 @@ figure{
   text-align: center;
 }
 .text{
-  line-break: auto;
   text-align: center;
 }
 #details{
-  background-color: red;
+  background-color: re;
   display: flex;
   align-items: center;
   justify-content: space-evenly;
